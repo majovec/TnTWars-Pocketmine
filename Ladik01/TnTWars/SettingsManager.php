@@ -1,10 +1,8 @@
 <?php
-use/pocketmine/io/File;
-use/pocketmine/io/IOException;
-use/ppocketmine/ChatColor;
-use/pocketmineconfiguration/file/FileConfiguration;
-use/pocketmineconfiguration/file/YmalConfiguration;
-use/pocketmine/plugin/Plugin;
+   
+   CELE SPATNE ;)
+   
+   
 class SettingsManager  {
   protected static $instance;   // SettingManager
   protected $p;   //Plugin
